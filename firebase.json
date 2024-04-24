@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "itau-angular",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "us-east1"
+      }
+    }
+  ]
+}

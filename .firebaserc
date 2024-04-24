@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-usuarios-angular-3587f": {
+      "hosting": {
+        "itau-angular": [
+          "crud-usuarios-angular-3587f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-usuarios-angular-3587f"
+  }
+}
